@@ -11,7 +11,7 @@ import os
 wells = [1]
 treatments = ['Doxo']
 
-pathname = 'C:/Users/yunji/OneDrive/桌面/cytostatic effect paper/PI uptake/total cell control/'
+pathname = ''
 
 ans = {}
 for treatment in treatments:
